@@ -1,0 +1,5 @@
+D:\programs\asp.net problemsheet 2\Automobile\Automobile\bin\Automobile.dll
+D:\programs\asp.net problemsheet 2\Automobile\Automobile\bin\Automobile.pdb
+D:\programs\asp.net problemsheet 2\Automobile\Automobile\obj\Debug\Automobile.dll
+D:\programs\asp.net problemsheet 2\Automobile\Automobile\obj\Debug\Automobile.pdb
+D:\programs\asp.net problemsheet 2\Automobile\Automobile\obj\Debug\Automobile.csprojResolveAssemblyReference.cache
